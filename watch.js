@@ -20,23 +20,5 @@
  setInterval(checkdate,1000); 
  
  
-/* let hr=document.getElementById("hour");
-let mn=document.getElementById("min");
-let sc=document.getElementById("sec");
 
-function showtime(){    
-    let date= new Date();
-
-    let hh=date.getHours();
-    let min=date.getMinutes();
-    let sec=date.getSeconds();
-
-    let hrotact=30*hh+min/2;
-    let mrotact=6*min;
-    let srotact=6*sec;
-    
-    hr.style.transform=`rotate(${hrotact}deg)`;
-    mn.style.transform=`rotate(${mrotact}deg)`;
-    sc.style.transform=`rotate(${srotact}deg)`;
-}
-setInterval(showtime,1000); */
+   
